@@ -1,4 +1,4 @@
 # crud-simples
 
 
-Projeto simples para entender o que é um CRUD.
+Projeto simples em Python para entender o que é um CRUD.
